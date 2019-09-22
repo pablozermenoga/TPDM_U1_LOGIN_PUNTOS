@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TPDM_U1_PUNTOS_LOGIN</string>
+    <array name="usuario">
+        <item>pablo</item>
+        <item>uriel</item>
+        <item>tapia</item>
+        <item>roberto</item>
+        <item>miguel</item>
+    </array>
+    <array name="contra">
+        <item>12345</item>
+        <item>12345</item>
+        <item>12345</item>
+        <item>12345</item>
+        <item>12345</item>
+    </array>
+</resources>
+
